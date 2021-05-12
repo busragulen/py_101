@@ -8,6 +8,9 @@ p=float(x)
 # Bundan sonra type(p) yazarak aldigimiz outputta veri tipinin float oldugunu gorebiliriz. 
 # str() fonksiyonunun icindeki veriler string veri tipine donusturulur.
 
+isim="String"+str(35)
+print(isim) #ciktisi String35 olacaktir.
+
 ####### NOT #######
 
 # Bir degisken dogrudan veri tipiyle birlikte atamak isteniyorsa, bu islem en basindan da yapilabilir:
