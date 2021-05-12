@@ -1,3 +1,8 @@
+################## Degisken Atama ############################
+
+# Degisken isimleri sayi ile baslayamaz. 
+# Bosluk, aritmetik operatorler ve bazi isaretler kullanilamaz.
+# Uppercase ve lowercase karakterlere duyarlidir.
 # degisken atama = ile yapilir.
 
 x = 5 
@@ -5,6 +10,8 @@ x = 5
 # bir degiskenin veri tipi type() fonksiyonu ile ogrenilir / ciktisi alinir.
 
 type(x) = int
+
+############### Aritmetik Operatorler #######################
 
 # aritmetik operatorler: toplama + , cikarma - , bolme / , carpma *, mod alma
 
