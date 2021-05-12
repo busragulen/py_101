@@ -19,9 +19,3 @@ type(b) # ciktisi float olur
 # len() fonksiyonu stringteki karakter sayisini cikti alır.
 
 len(isim) # ciktisi 1 olacaktir
-
-################## Degisken Atama ############################
-
-# Degisken isimleri sayi ile baslayamaz. 
-# Bosluk, aritmetik operatorler ve bazi isaretler kullanilamaz.
-# Uppercase ve lowercase karakterlere duyarlidir.
