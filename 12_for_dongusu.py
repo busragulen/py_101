@@ -21,4 +21,11 @@ for harf in isim:
   
 #bileşenleri yazdırmak istersek hem listelerde hem demetlerde şu metodu kullanabiliriz:
   
-  lise=[[],[]]
+liste=[[1,2],[3,4]]
+for i,j in liste:
+  print("i degeri {}, j degeri{}" .format(i,j)) # i degeri 1, j degeri2, i degeri 3, j degeri4 şeklinde yazdıracaktır.
+  
+#i. eleman 1., j. eleman 2. eleman gibi olur.
+  
+###### NOT #####
+# eğer üç elemanlı bir listeden veya demetten, iki elemanlı for döngüsü oluştutursak hata alırız.
