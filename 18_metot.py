@@ -28,9 +28,6 @@ print(isim)
 
 # çıktısı [] olur.
 
-# clear() metotunu vscode'da denerken fark ettim ki parantez içine indis verebiliyoruz
-# yani liste.clear(1) deseydik 1. indisi yani listedeki 9 degerini silecekti.
-
 # bir listede bir elemandan kaç tane olduğunu .count() ile görebiliriz.
 
 sayi=[1,1,1,2,2,2,3,3,3,5]
