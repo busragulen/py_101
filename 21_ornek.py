@@ -8,7 +8,7 @@ def tip_bul(x):
   elif(x==bool(x)):
     return bool
   
-lise=[1,2,3,4.45,"fsdgsdag", 0.95, True, False]
+liste=[1,2,3,4.45,"fsdgsdag", 0.95, True, False]
 
 for i in liste:
   print("Liste içerisindeki ", i," elemanı bir ", tip_bul(i),"'dir")
