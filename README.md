@@ -1,5 +1,5 @@
 # py_opencv
 
-Python ve OpenCV öğrenmek için kullanılabilecek Türkçe bir kaynak.
+Python temellerini öğrenirken oluşturduğum arşiv..
 
-A Turkish source to learn Python and OpenCV.
+A Turkish source to learn Python.
